@@ -56,7 +56,7 @@ function nonvegi () {
     document.write(NonVeg_iron[l] +": "+ NonVeg_iron_levels[l] + "mg"+"<br/>")}
 }
 
-function vegti () {
+function vegi () {
   document.write("Here are some alternative options to provide you with tons of iron! They are listed with the milligrams per serving."+"<br/>");
   for (var k = 0; k < Veg_iron.length; k++) {
     document.write(Veg_iron[k] +": "+ Veg_iron_levels[k] + "mg"+"<br/>")}
