@@ -1,0 +1,20 @@
+html {
+  font-size: 200%;
+  background-color: #FB9B50;
+  background-image: 'image(1).png';
+  height: 100%;
+  width: 100%;
+  font-family: "Cambria";
+  color-scheme: dark;
+}
+
+
+
+img {
+  background-image: 'image(1).png';
+  width:50%;
+  height:50%;
+  border-radius: 2px;
+}
+
+
